@@ -10,10 +10,10 @@ copyright = "STB Educa 2017"
 
 [params]
   DateForm = "Mon, Jan 2, 2006"
-  Description = "Cursos em engenharia florestal"
-  email = "contato@stbeduca.com.br" #Remove this line if you would prefer not to use an email button in the footer.
-  postSummariesFrontPage = 4 #Number of post summaries to show on front page, comment out to allow default(4)
-  showReadTime = false #set to false to exclude read time from header of post
+  Description = "Cursos na área florestal"
+  email = "contato@stbeduca.com.br"
+  postSummariesFrontPage = 4
+  showReadTime = false
 
 [[params.social]]
   title = "facebook"
