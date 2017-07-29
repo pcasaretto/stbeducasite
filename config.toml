@@ -1,3 +1,4 @@
+theme = "current"
 title = "STB Educa"
 languageCode = "pt-BR"
 baseurl = "http://www.stbeduca.com.br"
